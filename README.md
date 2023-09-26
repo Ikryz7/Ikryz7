@@ -36,23 +36,6 @@ Hello i'm Rizky, I have an interest in Software Development, especially in web d
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 
-🌐 **Community Involvement**
-- Founder of the SejarahPerangDunia2 account and responsible for content creation and community initiatives on Instagram.
-- Actively contributing to discussions and questions on the WPU Discord server.
-- Supporting community members in solving technical issues and understanding programming concepts.
-
-🏆 **Achievements and Contributions**
-- As a founder, I have played a key role in building and maintaining the active and growing SejarahPerangDunia2 community especially on Discord.
-- Being an HTML-CSS helper due to active contributions in discussions and questions related to HTML-CSS.
-
-🌏 **Latest Projects**
-- [RenzAura](https://ikhlasdansantai.github.io/RenzAura/)
-- [HangeulIn](https://ikhlasdansantai.github.io/Hangeulin/)
-- [Weeekly Website Fanmade](https://ikhlasdansantai.github.io/weeekly-website-fanmade/)
-- [Discord](https://discord.gg/22k6dBAmnP)
-- [Youtube](https://www.instagram.com/sejarahperangdunia/)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ikhlasdansantai&icon=2&color=1)](https://visitcount.itsvg.in)
 
