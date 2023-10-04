@@ -37,6 +37,6 @@ Hello i'm Rizky, I have an interest in Software Development, especially in web d
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ikhlasdansantai&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ikryz7&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
